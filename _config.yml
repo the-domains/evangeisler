@@ -1,28 +1,14 @@
-name: evangeisler
-favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.08936559
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
-  brandColors:
-    - '#daa8b4'
-    - '#c7e9ea'
-    - '#0f1d0c'
-    - '#71382d'
-    - '#71695e'
+  saturation: 1
   brandStrength: 0.6271288
   lightness: 0
-  saturation: 1
+  brandColors:
+    - '#CEF1FF'
+    - '#0C0C0F'
+    - '#2E4D77'
+    - '#30B4FF'
+    - '#FFF443'
   rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.08936559
+name: evangeisler
